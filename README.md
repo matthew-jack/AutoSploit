@@ -5,7 +5,7 @@ Version: 2.0
 
 Purpose
 =======
-PoC program to automate the at.exe privilege escalation vulnerability (CVE-2006-3209).
+PoC program to exploit the at.exe privilege escalation vulnerability (CVE-2006-3209).
 
 Components
 ==========
