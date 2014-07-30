@@ -1,12 +1,12 @@
 AutoSploit
 ==========
 Authors: Matthew Jack, Richard Childs, Sean Edwards
-Version: 0.1
+Version: 2.0
 
 Purpose
 =======
-To automate the WinXP "at" privilege escalation exploit.
+PoC program to automate the at.exe privilege escalation vulnerability (CVE-2006-3209).
 
 Components
 ==========
-There is a C and Java version in development.
+There is a Perl port and the original C version.
