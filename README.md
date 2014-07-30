@@ -1,4 +1,4 @@
-Autosploit
+AutoSploit
 ==========
 Authors: Matthew Jack, Richard Childs, Sean Edwards
 Version: 0.1
